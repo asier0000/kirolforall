@@ -1,0 +1,1581 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 19:25:41 #1 server] 
+Server on port 60028 has started by 17912@Unkown
+
+[2025-05-16 19:26:07 #2 server] 
+Server on port 60028 has stopped by 17912@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 19:35:50 #1 server] 
+Server on port 60119 has started by 12048@Unkown
+
+[2025-05-16 19:36:40 #2 server] 
+Server on port 60119 has stopped by 12048@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 19:36:44 #1 server] 
+Server on port 60130 has started by 5692@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 19:38:31 #1 server] 
+Server on port 6136 has started by 7940@Unkown
+
+[2025-05-16 19:38:47 #2 server] 
+Server on port 6136 has stopped by 7940@Unkown
+
+[2025-05-16 19:38:50 #2 server] 
+Server on port 60130 has stopped by 5692@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 19:40:07 #1 server] 
+Server on port 6136 has started by 4768@Unkown
+
+[2025-05-16 19:40:11 #2 server] 
+Server on port 6136 has stopped by 4768@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 19:40:14 #1 server] 
+Server on port 6136 has started by 14312@Unkown
+
+[2025-05-16 19:40:17 #2 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 14312@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 19:40:17 #1 type.registry] 
+New type domain.Reserva
+
+[2025-05-16 19:40:17 #2 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 19:40:17 #3 type.registry] 
+New type domain.Sesion
+
+[2025-05-16 19:40:17 #4 type.registry] 
+New type domain.Socio
+
+[2025-05-16 19:40:17 #5 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 19:40:17 #6 type.registry] 
+New type domain.Sala
+
+[2025-05-16 19:40:17 #7 type.registry] 
+New type domain.Actividad
+
+[2025-05-16 19:40:17 #8 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 19:40:17 #9 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 19:40:17 #10 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 19:40:17 #11 type.registry] 
+New type domain.Factura
+
+[2025-05-16 19:40:17 #12 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 19:40:17 #13 type.registry] 
+New type java.util.ArrayList<java.lang.Object>
+
+[2025-05-16 19:40:17 #14 type.registry] 
+New type java.util.ArrayList<domain.Reserva>
+
+[2025-05-16 19:43:12 #3 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 14312@Unkown
+
+[2025-05-16 19:43:12 #4 server] 
+Server on port 6136 has stopped by 14312@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 19:43:18 #1 server] 
+Server on port 6136 has started by 17392@Unkown
+
+[2025-05-16 19:43:20 #2 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 17392@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 19:43:20 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 19:43:20 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 19:43:20 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 19:43:20 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 19:43:20 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 19:43:20 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 19:43:24 #3 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 17392@Unkown
+
+[2025-05-16 19:43:28 #4 server] 
+Server on port 6136 has stopped by 17392@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 19:43:31 #1 server] 
+Server on port 6136 has started by 17440@Unkown
+
+[2025-05-16 19:43:35 #2 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 17440@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 19:43:35 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 19:43:35 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 19:43:35 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 19:43:35 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 19:43:35 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 19:43:35 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 19:43:45 #3 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 17440@Unkown
+
+[2025-05-16 19:43:47 #4 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 17440@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 19:43:47 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 19:43:47 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 19:43:47 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 19:43:47 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 19:43:47 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 19:43:47 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 19:43:48 #5 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 17440@Unkown
+
+[2025-05-16 19:43:59 #6 server] 
+Server on port 6136 has stopped by 17440@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 19:44:01 #1 server] 
+Server on port 6136 has started by 2800@Unkown
+
+[2025-05-16 19:44:04 #2 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 2800@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 19:44:04 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 19:44:04 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 19:44:04 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 19:44:04 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 19:44:04 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 19:44:04 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 19:44:20 #3 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 2800@Unkown
+
+[2025-05-16 19:44:20 #4 server] 
+Server on port 6136 has stopped by 2800@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 19:44:28 #1 server] 
+Server on port 6136 has started by 17684@Unkown
+
+[2025-05-16 19:44:29 #2 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 17684@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 19:44:29 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 19:44:29 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 19:44:29 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 19:44:29 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 19:44:29 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 19:44:30 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 19:45:58 #3 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 17684@Unkown
+
+[2025-05-16 19:45:58 #4 server] 
+Server on port 6136 has stopped by 17684@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 19:46:03 #1 server] 
+Server on port 6136 has started by 6024@Unkown
+
+[2025-05-16 19:46:05 #2 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 6024@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 19:46:05 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 19:46:05 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 19:46:05 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 19:46:05 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 19:46:05 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 19:46:05 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 19:46:12 #7 type.registry] 
+New type com.objectdb.o.LMT
+
+[2025-05-16 19:46:12 #8 type.registry] 
+New type com.objectdb.o.VAL
+
+[2025-05-16 19:46:12 #9 type.registry] 
+New type com.objectdb.o.RFV
+
+[2025-05-16 19:46:39 #3 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 6024@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 19:46:44 #1 server] 
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:565)
+	at java.base/sun.nio.ch.Net.bind(Net.java:554)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:391)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:278)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:222)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+[2025-05-16 19:46:47 #4 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 6024@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 19:46:47 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 19:46:47 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 19:46:47 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 19:46:47 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 19:46:47 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 19:46:47 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 19:49:01 #5 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 6024@Unkown
+
+[2025-05-16 19:49:01 #6 server] 
+Server on port 6136 has stopped by 6024@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 19:49:15 #1 server] 
+Server on port 6136 has started by 432@Unkown
+
+[2025-05-16 19:49:16 #2 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 432@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 19:49:16 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 19:49:16 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 19:49:16 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 19:49:16 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 19:49:16 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 19:49:16 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 19:51:18 #3 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 432@Unkown
+
+[2025-05-16 19:51:22 #4 server] 
+Server on port 6136 has stopped by 432@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 19:51:27 #1 server] 
+Server on port 6136 has started by 5936@Unkown
+
+[2025-05-16 19:51:31 #2 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 5936@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 19:51:31 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 19:51:31 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 19:51:31 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 19:51:31 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 19:51:31 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 19:51:31 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 19:54:41 #3 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 5936@Unkown
+
+[2025-05-16 19:54:41 #4 server] 
+Server on port 6136 has stopped by 5936@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 19:54:46 #1 server] 
+Server on port 6136 has started by 1180@Unkown
+
+[2025-05-16 19:54:48 #2 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 1180@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 19:54:48 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 19:54:48 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 19:54:48 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 19:54:48 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 19:54:48 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 19:54:48 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 19:55:54 #3 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 1180@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 19:56:38 #1 server] 
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:565)
+	at java.base/sun.nio.ch.Net.bind(Net.java:554)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:391)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:278)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:222)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+[2025-05-16 19:56:39 #4 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 1180@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 19:56:40 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 19:56:40 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 19:56:40 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 19:56:40 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 19:56:40 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 19:56:40 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 20:00:52 #5 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 1180@Unkown
+
+[2025-05-16 20:00:52 #6 server] 
+Server on port 6136 has stopped by 1180@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:00:56 #1 server] 
+Server on port 6136 has started by 17444@Unkown
+
+[2025-05-16 20:00:58 #2 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 17444@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:00:58 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 20:00:58 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 20:00:58 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 20:00:58 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 20:00:58 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 20:00:58 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 20:03:24 #3 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 17444@Unkown
+
+[2025-05-16 20:03:24 #4 server] 
+Server on port 6136 has stopped by 17444@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:03:33 #1 server] 
+Server on port 6136 has started by 2268@Unkown
+
+[2025-05-16 20:03:34 #2 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 2268@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:03:34 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 20:03:34 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 20:03:34 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 20:03:34 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 20:03:34 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 20:03:35 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 20:06:46 #3 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 2268@Unkown
+
+[2025-05-16 20:06:46 #4 server] 
+Server on port 6136 has stopped by 2268@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:06:50 #1 server] 
+Server on port 6136 has started by 12928@Unkown
+
+[2025-05-16 20:06:51 #2 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 12928@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:06:51 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 20:06:51 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 20:06:51 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 20:06:51 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 20:06:51 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 20:06:51 #6 type] 
+Type domain.Factura is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:08:09 #1 server] 
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:565)
+	at java.base/sun.nio.ch.Net.bind(Net.java:554)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:391)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:278)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:222)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:08:11 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 20:08:11 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 20:08:11 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 20:08:11 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 20:08:11 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 20:08:11 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 20:08:16 #3 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 12928@Unkown
+
+[2025-05-16 20:08:19 #4 server] 
+Server on port 6136 has stopped by 12928@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:08:24 #1 server] 
+Server on port 6136 has started by 18440@Unkown
+
+[2025-05-16 20:08:26 #2 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 18440@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:08:26 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 20:08:26 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 20:08:26 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 20:08:26 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 20:08:26 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 20:08:26 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 20:11:06 #3 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 18440@Unkown
+
+[2025-05-16 20:11:11 #4 server] 
+Server on port 6136 has stopped by 18440@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:12:32 #1 server] 
+Server on port 6136 has started by 18924@Unkown
+
+[2025-05-16 20:12:33 #2 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 18924@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:12:34 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 20:12:34 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 20:12:34 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 20:12:34 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 20:12:34 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 20:12:34 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 20:13:39 #3 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 18924@Unkown
+
+[2025-05-16 20:13:43 #4 server] 
+Server on port 6136 has stopped by 18924@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:14:39 #1 server] 
+Server on port 6136 has started by 8848@Unkown
+
+[2025-05-16 20:14:41 #2 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 8848@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:14:41 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 20:14:41 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 20:14:41 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 20:14:41 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 20:14:41 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 20:14:41 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 20:15:54 #3 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 8848@Unkown
+
+[2025-05-16 20:15:54 #4 server] 
+Server on port 6136 has stopped by 8848@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:22:31 #1 server] 
+Server on port 6136 has started by 19088@Unkown
+
+[2025-05-16 20:22:32 #2 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 19088@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:22:33 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 20:22:33 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 20:22:33 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 20:22:33 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 20:22:33 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 20:22:33 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 20:22:36 #3 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 19088@Unkown
+
+[2025-05-16 20:22:55 #4 server] 
+Server on port 6136 has stopped by 19088@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:22:57 #1 server] 
+Server on port 6136 has started by 6504@Unkown
+
+[2025-05-16 20:22:59 #2 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 6504@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:22:59 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 20:22:59 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 20:22:59 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 20:22:59 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 20:22:59 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 20:22:59 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 20:23:03 #3 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 6504@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:23:15 #1 server] 
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:565)
+	at java.base/sun.nio.ch.Net.bind(Net.java:554)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:391)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:278)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:222)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+[2025-05-16 20:23:18 #4 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 6504@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:23:18 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 20:23:18 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 20:23:18 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 20:23:18 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 20:23:18 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 20:23:18 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 20:23:22 #5 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 6504@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:23:30 #1 server] 
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:565)
+	at java.base/sun.nio.ch.Net.bind(Net.java:554)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:391)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:278)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:222)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+[2025-05-16 20:23:32 #6 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 6504@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:23:32 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 20:23:32 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 20:23:32 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 20:23:32 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 20:23:32 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 20:23:32 #6 type] 
+Type domain.Factura is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:24:22 #1 server] 
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:565)
+	at java.base/sun.nio.ch.Net.bind(Net.java:554)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:391)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:278)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:222)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+[2025-05-16 20:24:26 #7 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 6504@Unkown
+
+[2025-05-16 20:24:33 #8 server] 
+Server on port 6136 has stopped by 6504@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:24:59 #1 server] 
+Server on port 6136 has started by 20428@Unkown
+
+[2025-05-16 20:25:01 #2 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 20428@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:25:01 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 20:25:01 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 20:25:01 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 20:25:01 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 20:25:01 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 20:25:01 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 20:25:14 #3 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 20428@Unkown
+
+[2025-05-16 20:25:19 #4 server] 
+Server on port 6136 has stopped by 20428@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:25:28 #1 server] 
+Server on port 6136 has started by 9836@Unkown
+
+[2025-05-16 20:25:30 #2 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 9836@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:25:30 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 20:25:30 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 20:25:30 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 20:25:30 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 20:25:30 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 20:25:30 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 20:26:11 #3 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 9836@Unkown
+
+[2025-05-16 20:26:11 #4 server] 
+Server on port 6136 has stopped by 9836@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:34:48 #1 server] 
+Server on port 6136 has started by 7936@Unkown
+
+[2025-05-16 20:34:50 #2 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 7936@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:34:50 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 20:34:50 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 20:34:50 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 20:34:50 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 20:34:50 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 20:34:50 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 20:35:35 #3 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 7936@Unkown
+
+[2025-05-16 20:41:25 #4 server] 
+Server on port 6136 has stopped by 7936@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:41:28 #1 server] 
+Server on port 6136 has started by 19452@Unkown
+
+[2025-05-16 20:41:29 #2 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 19452@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:41:29 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 20:41:29 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 20:41:29 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 20:41:29 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 20:41:29 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 20:41:29 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 20:42:03 #3 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 19452@Unkown
+
+[2025-05-16 20:42:03 #4 server] 
+Server on port 6136 has stopped by 19452@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:43:16 #1 server] 
+Server on port 6136 has started by 4292@Unkown
+
+[2025-05-16 20:43:18 #2 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 4292@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:43:18 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 20:43:18 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 20:43:18 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 20:43:18 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 20:43:18 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 20:43:18 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 20:46:16 #3 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 4292@Unkown
+
+[2025-05-16 20:46:22 #4 server] 
+Server on port 6136 has stopped by 4292@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:51:10 #1 server] 
+Server on port 6136 has started by 8752@Unkown
+
+[2025-05-16 20:51:11 #2 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 8752@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:51:12 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 20:51:12 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 20:51:12 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 20:51:12 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 20:51:12 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 20:51:12 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 20:52:43 #3 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 8752@Unkown
+
+[2025-05-16 20:52:43 #4 server] 
+Server on port 6136 has stopped by 8752@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:54:25 #1 server] 
+Server on port 6136 has started by 18244@Unkown
+
+[2025-05-16 20:54:27 #2 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 18244@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:54:27 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 20:54:27 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 20:54:27 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 20:54:27 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 20:54:27 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 20:54:27 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 20:56:04 #3 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 18244@Unkown
+
+[2025-05-16 20:56:04 #4 server] 
+Server on port 6136 has stopped by 18244@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:56:08 #1 server] 
+Server on port 6136 has started by 17220@Unkown
+
+[2025-05-16 20:56:10 #2 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 17220@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:56:10 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 20:56:10 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 20:56:10 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 20:56:10 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 20:56:10 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 20:56:10 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 20:57:26 #3 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 17220@Unkown
+
+[2025-05-16 20:57:26 #4 server] 
+Server on port 6136 has stopped by 17220@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:57:36 #1 server] 
+Server on port 6136 has started by 19604@Unkown
+
+[2025-05-16 20:57:39 #2 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 19604@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 20:57:39 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 20:57:39 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 20:57:39 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 20:57:39 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 20:57:39 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 20:57:39 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 21:00:45 #3 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 19604@Unkown
+
+[2025-05-16 21:00:45 #4 server] 
+Server on port 6136 has stopped by 19604@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 21:00:49 #1 server] 
+Server on port 6136 has started by 11480@Unkown
+
+[2025-05-16 21:00:51 #2 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 11480@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 21:00:51 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 21:00:51 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 21:00:51 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 21:00:51 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 21:00:51 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 21:00:51 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 21:03:40 #3 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 11480@Unkown
+
+[2025-05-16 21:03:40 #4 server] 
+Server on port 6136 has stopped by 11480@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 21:03:43 #1 server] 
+Server on port 6136 has started by 13116@Unkown
+
+[2025-05-16 21:03:44 #2 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 13116@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 21:03:44 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 21:03:44 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 21:03:44 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 21:03:44 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 21:03:44 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 21:03:44 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 21:05:12 #3 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 13116@Unkown
+
+[2025-05-16 21:05:12 #4 server] 
+Server on port 6136 has stopped by 13116@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 21:05:16 #1 server] 
+Server on port 6136 has started by 20176@Unkown
+
+[2025-05-16 21:05:18 #2 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 20176@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 21:05:18 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 21:05:18 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 21:05:18 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 21:05:18 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 21:05:18 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 21:05:18 #6 type] 
+Type domain.Factura is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 21:08:35 #1 server] 
+java.net.BindException: Address already in use: bind
+	at java.base/sun.nio.ch.Net.bind0(Native Method)
+	at java.base/sun.nio.ch.Net.bind(Net.java:565)
+	at java.base/sun.nio.ch.Net.bind(Net.java:554)
+	at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:636)
+	at java.base/java.net.ServerSocket.bind(ServerSocket.java:391)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:278)
+	at java.base/java.net.ServerSocket.<init>(ServerSocket.java:222)
+	at com.objectdb.o.SMR.I(SMR.java:259)
+	at com.objectdb.o.SMR.n(SMR.java:159)
+	at com.objectdb.o.TOL.run(TOL.java:116)
+	at com.objectdb.Server.runCommand(Server.java:200)
+	at com.objectdb.Server.run(Server.java:104)
+	at com.objectdb.Server.main(Server.java:63)
+
+[2025-05-16 21:08:36 #3 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 20176@Unkown
+
+[2025-05-16 21:08:36 #4 server] 
+Server on port 6136 has stopped by 20176@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 21:08:49 #1 server] 
+Server on port 6136 has started by 22488@Unkown
+
+[2025-05-16 21:08:52 #2 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 22488@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 21:08:52 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 21:08:52 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 21:08:52 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 21:08:52 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 21:08:52 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 21:08:52 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 21:10:10 #3 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 22488@Unkown
+
+[2025-05-16 21:10:10 #4 server] 
+Server on port 6136 has stopped by 22488@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 21:10:21 #1 server] 
+Server on port 6136 has started by 11024@Unkown
+
+[2025-05-16 21:10:23 #2 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 11024@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 21:10:23 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 21:10:23 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 21:10:23 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 21:10:23 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 21:10:23 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 21:10:23 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 21:13:24 #3 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 11024@Unkown
+
+[2025-05-16 21:13:24 #4 server] 
+Server on port 6136 has stopped by 11024@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 21:13:28 #1 server] 
+Server on port 6136 has started by 8336@Unkown
+
+[2025-05-16 21:13:29 #2 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 8336@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 21:13:30 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 21:13:30 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 21:13:30 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 21:13:30 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 21:13:30 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 21:13:30 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 21:15:45 #3 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 8336@Unkown
+
+[2025-05-16 21:15:45 #4 server] 
+Server on port 6136 has stopped by 8336@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 21:15:48 #1 server] 
+Server on port 6136 has started by 20816@Unkown
+
+[2025-05-16 21:15:50 #2 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 20816@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 21:15:50 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 21:15:50 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 21:15:50 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 21:15:50 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 21:15:50 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 21:15:50 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 21:17:28 #3 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 20816@Unkown
+
+[2025-05-16 21:17:28 #4 server] 
+Server on port 6136 has stopped by 20816@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 21:17:33 #1 server] 
+Server on port 6136 has started by 20876@Unkown
+
+[2025-05-16 21:17:35 #2 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 20876@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 21:17:35 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 21:17:35 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 21:17:35 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 21:17:35 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 21:17:35 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 21:17:35 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 21:18:23 #3 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 20876@Unkown
+
+[2025-05-16 21:18:23 #4 server] 
+Server on port 6136 has stopped by 20876@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 21:19:10 #1 server] 
+Server on port 6136 has started by 17012@Unkown
+
+[2025-05-16 21:19:12 #2 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 17012@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 21:19:12 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 21:19:12 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 21:19:12 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 21:19:12 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 21:19:12 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 21:19:12 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 21:20:24 #3 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 17012@Unkown
+
+[2025-05-16 21:20:29 #4 server] 
+Server on port 6136 has stopped by 17012@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 21:21:08 #1 server] 
+Server on port 6136 has started by 22688@Unkown
+
+[2025-05-16 21:21:10 #2 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is opened by 22688@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 21:21:10 #1 type] 
+Type domain.Reserva is not enhanced.
+
+[2025-05-16 21:21:10 #2 type] 
+Type domain.Sesion is not enhanced.
+
+[2025-05-16 21:21:10 #3 type] 
+Type domain.Socio is not enhanced.
+
+[2025-05-16 21:21:10 #4 type] 
+Type domain.Sala is not enhanced.
+
+[2025-05-16 21:21:10 #5 type] 
+Type domain.Actividad is not enhanced.
+
+[2025-05-16 21:21:10 #6 type] 
+Type domain.Factura is not enhanced.
+
+[2025-05-16 21:21:30 #3 store] 
+Database 'C:\Users\admin1\Documents\workspace\Rides24\src\main\resources\db\src\main\resources\rides.temp' is closed by 22688@Unkown
+
+[2025-05-16 21:21:35 #4 server] 
+Server on port 6136 has stopped by 22688@Unkown
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2025-05-16 23:15:19 #1 server] 
+Server on port 56705 has started by 21500@Unkown
+
+[2025-05-16 23:24:07 #2 server] 
+Server on port 56705 has stopped by 21500@Unkown
+
